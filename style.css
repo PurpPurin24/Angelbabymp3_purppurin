@@ -24,7 +24,7 @@
     }
 
     body::before {
-        content: "\00A9  feelthisray (formerly Rayys)";
+        content: "\00A9  AdamDou (formerly Adam)";
         padding: 8px;
         border-radius: 12px;
         background: black;
